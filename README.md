@@ -3,3 +3,5 @@ product-backlog
 ===============
 
 Product backlog of the openETCS project
+
+For details on the scrum of scrum process see [this](https://github.com/openETCS/product-backlog/wiki/Scrum-of-scrum-process) wiki page.
