@@ -6,4 +6,6 @@ product-backlog
 
 Product backlog of the openETCS project
 
-For details on the scrum of scrum process see [this](https://github.com/openETCS/product-backlog/wiki/Scrum-of-scrum-process) wiki page.
+The product backlog itself is implemented in the [issue tracker](https://github.com/openETCS/product-backlog/issues) of this repository.
+
+For details on the scrum of scrum process see [this wiki page](https://github.com/openETCS/product-backlog/wiki/Scrum-of-scrum-process).
