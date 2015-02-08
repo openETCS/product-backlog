@@ -7,7 +7,7 @@ product-backlog
 
 Product backlog of the openETCS project
 
-The product backlog itself is implemented in the [issue tracker](https://github.com/openETCS/product-backlog/issues) of this repository. 
+The product backlog is implemented in the [issue tracker](https://github.com/openETCS/product-backlog/issues) of this repository. 
 
 We recommend to use [waffle](https://waffle.io/openETCS/product-backlog) for a scrum board like view of the product backlog.
 
