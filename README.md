@@ -5,7 +5,7 @@
 product-backlog
 ===============
 
-Product backlog of the openETCS project
+Top level product backlog of the openETCS project
 
 The product backlog is implemented in the [issue tracker](https://github.com/openETCS/product-backlog/issues) of this repository. 
 
