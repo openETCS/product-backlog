@@ -2,6 +2,9 @@
 [![Stories in Ready](https://badge.waffle.io/openETCS/product-backlog.png?label=ready&title=Ready)](https://waffle.io/openETCS/product-backlog)
 [![Stories in "In Progress"](https://badge.waffle.io/openETCS/product-backlog.png?label=In Progress&title=In Progress)](https://waffle.io/openETCS/product-backlog)
 [![Stories in Defered](https://badge.waffle.io/openETCS/product-backlog.png?label=deferred&title=Deferred)](https://waffle.io/openETCS/product-backlog)
+
+[![Throughput Graph](https://graphs.waffle.io/openETCS/product-backlog/throughput.svg)](https://waffle.io/openETCS/product-backlog/metrics)
+
 product-backlog
 ===============
 
